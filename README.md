@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-John, PPMC of Apache GraphAr(incubating)
+John, interested in graph-related store / computing / AI, PPMC of Apache GraphAr(incubating) and Committer of Apache HugeGraph(incubating)
 
 - OSPP'25: mentor at both HugeGraph and GraphAr community
 - GLCC'24: work for [Apache HugeGraph(incubating) Toolchain](https://github.com/apache/incubator-hugegraph-toolchain/)
